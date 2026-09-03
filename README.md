@@ -19,7 +19,7 @@
 
 ## Vídeo da atividade
 
-🔗 **URL:** *[será adicionado após a gravação — ver também `VIDEO.md`]*
+🔗 **URL:** *(Também disponível na pasta de vídeo)*
 
 ## Informações relevantes
 
@@ -41,7 +41,7 @@
 
 ## Evidências
 
-As evidências (capturas de tela, logs e respostas coletadas) estão organizadas em `evidencias/`.
+As evidências (capturas de tela, logs e respostas coletadas) estão organizadas na pasta do repositório.
 
 ## Outras informações
 
