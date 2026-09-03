@@ -27,27 +27,33 @@
 - [Declaração de Uso de IA](./info/declaracao-uso-ia.md)
 
 
-## Como o repositório está organizado
+## Organização do material
+
+Dividimos o trabalho por etapa da análise, não por número de documento:
 
 ```
 .
-├── docs/
-│   ├── 01-ficha-inicial.md
-│   ├── 02-contexto-uso.md
-│   ├── 03-partes-interessadas.md
-│   ├── 04-requisitos-qualidade.md
-│   ├── 05-iso-25010-2023.md
-│   ├── 06-casos-teste.md
-│   ├── 07-variabilidade.md
-│   ├── 08-achados.md
-│   ├── 09-plano-melhoria.md
-│   └── 10-limitacoes.md
-├── evidencias/        → prints, logs e respostas coletadas nos testes
-├── info/
-│   ├── contribuicoes.md
-│   └── declaracao-uso-ia.md
-├── relatorio/          → relatório técnico final em PDF
-└── VIDEO.md             → link do vídeo da apresentação
+├── contexto/
+│   ├── ficha-tecnica.md         → licença, commit avaliado, dados do projeto
+│   ├── uso-e-riscos.md          → contexto de uso e riscos identificados
+│   └── stakeholders.md          → partes interessadas
+├── qualidade/
+│   ├── requisitos.md            → requisitos de qualidade levantados
+│   └── modelo-iso25010.md       → aplicação da ISO/IEC 25010:2023
+├── testes/
+│   ├── casos-de-teste.md        → roteiro dos casos executados
+│   ├── repeticoes.md            → análise de variabilidade / não determinismo
+│   └── capturas/                → prints, logs e respostas coletadas
+├── conclusao/
+│   ├── achados.md               → problemas encontrados, por gravidade
+│   ├── plano-de-acao.md         → o que recomendamos melhorar
+│   └── limitacoes.md            → limites desta avaliação
+├── equipe/
+│   ├── contribuicoes.md         → quem fez o quê
+│   └── uso-de-ia.md             → declaração de uso de IA generativa
+└── entrega/
+    ├── relatorio-final.pdf
+    └── video.md                 → link do vídeo da apresentação
 ```
 ## Evidências
 
