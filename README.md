@@ -12,6 +12,7 @@
 | 04 | Raphael Ferreira Portella Bacelar | 202100045822 |
 | 05 | Vinícius Morais Souza | 202200060106 |
 | 06 | Thayla Almeida Figueiredo | 202300061840 |
+| 07 | Douglas de Oliveira Déda | 201700053097 |
 
 **Projeto avaliado:** Cherry Studio — Repositório da Equipe 04 para a atividade avaliativa (AV1) de Qualidade de Software, 2026.2. Aqui investigamos se o Cherry Studio — um app desktop que conecta o usuário a vários provedores de LLM (OpenAI, Gemini etc.) numa interface única de chat — é confiável e seguro o suficiente pra confiar nele no dia a dia.
 
