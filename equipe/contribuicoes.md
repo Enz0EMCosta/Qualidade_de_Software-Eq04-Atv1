@@ -10,9 +10,9 @@
 | :--- | :--- | :--- | :--- |
 | **Enzo** | Seções 1 e 10 | Recorte do Projeto & Governança de IA | Abertura, Introdução e Transparência de IA |
 | **Thayla** | Seção 4 | Partes Interessadas & Contexto de Uso | Stakeholders e Impacto dos Riscos |
-| **Douglas** | Seção 5 | Requisitos de Qualidade (RQ-01 a RQ-10) | Requisitos Críticos e Critérios de Aceitação |
+| **Rafael** | Seção 5 | Requisitos de Qualidade (RQ-01 a RQ-10) | Requisitos Críticos e Critérios de Aceitação |
 | **Adam** | Seção 6 | Aplicação da Norma ISO/IEC 25010:2023 | Mapeamento da Norma ISO 25010 e Riscos |
-| **[Nome do Integrante 5]** | Seção 7 | Casos de Teste (CT-01 a CT-12) & Evidências | Demonstração Prática de Testes e Logs |
+| **Douglas** | Seção 7 | Casos de Teste (CT-01 a CT-12) & Evidências | Demonstração Prática de Testes e Logs |
 | **Vinícius** | Seção 8 | Variabilidade, Não-Determinismo e Confabulação | Análise Prática de Variabilidade na IA |
 | **Raphael** | Seção 9 + Git | Achados, Plano de Melhoria & Repositório | Achados e Gestão das Entregas do Git |
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 3. Douglas
+### 3. Rafael
 * **Papel:** Engenheiro de Requisitos de Qualidade
 
 #### 📄 Relatório Técnico
@@ -84,7 +84,7 @@
 
 ---
 
-### 5. [Nome do Integrante 5]
+### 5. Douglas
 * **Papel:** Analista de Testes e Garantia de Qualidade (QA)
 
 #### 📄 Relatório Técnico
