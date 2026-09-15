@@ -24,7 +24,7 @@
 
 ## Informações relevantes
 
-- [Contribuição Individual](./info/contribuicoes.md)
+- [Contribuição Individual](.[/info/contribuicoes.md](http://equipe/contribuicoes.md/))
 - [Declaração de Uso de IA](./info/declaracao-uso-ia.md)
 
 
