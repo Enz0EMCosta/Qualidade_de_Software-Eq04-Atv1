@@ -12,7 +12,7 @@
 
 - *Aproveitado:* os casos de teste sugeridos por Claude e ChatGPT foram repassados como ponto de partida para a Seção 7 (Casos de Teste); os requisitos sugeridos pela Gemini serviram de base para a Seção 5 (Requisitos de Qualidade); a revisão do Copilot foi aplicada diretamente no README do repositório.
 - *Corrigido:* a explicação da Gemini sobre a licença do Cherry Studio generalizou o AGPL-3.0 como "uma das licenças mais rigorosas do ecossistema de software livre", sem mencionar a particularidade específica do projeto: a existência de uma licença comercial adicional (Cherry Studio License Agreement) para empresas que desejam ficar isentas das exigências da AGPL-3.0. Essa lacuna foi identificada e corrigida manualmente pela equipe após conferência direta no repositório oficial.
-- *Rejeitado:* [PREENCHER — se houver alguma sugestão descartada]
+
 
 **Verificações realizadas:** conferência manual da licença e da organização mantenedora diretamente no repositório oficial no GitHub, validação técnica dos casos de teste e requisitos sugeridos antes de repassá-los aos integrantes responsáveis pelas respectivas seções.
 
