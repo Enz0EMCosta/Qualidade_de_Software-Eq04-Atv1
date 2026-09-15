@@ -25,7 +25,7 @@
 ## Informações relevantes
 
 - [Contribuição Individual](./equipe/contribuicoes.md)
-- [Declaração de Uso de IA](./info/declaracao-uso-ia.md)
+- [Declaração de Uso de IA](./equipe/uso-de-ia.md)
 
 
 ## Organização do material
