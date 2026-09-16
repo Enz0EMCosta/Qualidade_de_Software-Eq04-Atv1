@@ -13,3 +13,60 @@ A documentação oficial de configuração de provedores confirma que um mesmo p
 **Resultados:**
 
 A partir da ficha técnica levantada, a equipe delimitou como recorte de avaliação o gerenciamento de chaves de API, o histórico de conversas, a experiência do usuário (UX) e a segurança da aplicação — não sendo avaliada a qualidade das respostas geradas pelos modelos conectados. Essa delimitação se justifica pela natureza do Cherry Studio como orquestrador de LLMs de terceiros: o maior risco identificado não está na geração de conteúdo, mas em como a ferramenta armazena e protege dados sensíveis do usuário no dispositivo local, sem um console de administração centralizado.
+
+
+# Contexto de Uso - Thayla Almeida Figueiredo
+
+O Cherry Studio permite ao usuário acessar diferentes provedores de inteligência artificial em uma única interface. A ferramenta pode ser utilizada para pesquisas, criação de textos, programação, análise de informações e outras atividades que utilizem modelos de IA.
+
+### Nível de Supervisão Humana
+
+A necessidade de supervisão depende do risco da atividade:
+
+- **Baixo risco:** tarefas como brainstorming, geração de ideias e criação de textos simples podem ter menor nível de supervisão.
+- **Médio risco:** programação, trabalhos acadêmicos e análise de informações exigem revisão do usuário.
+- **Alto risco:** atividades relacionadas à saúde, finanças, questões jurídicas, segurança e informações confidenciais exigem supervisão humana especializada.
+
+### Decisões Apoiadas pela IA
+
+A IA pode auxiliar o usuário em:
+
+- Análise de informações;
+- Pesquisas;
+- Programação;
+- Criação e revisão de documentos;
+- Comparação de alternativas;
+- Planejamento e geração de ideias.
+
+A IA deve atuar como ferramenta de apoio, enquanto a decisão final permanece sob responsabilidade humana.
+
+### Erros Aceitáveis
+
+São considerados aceitáveis erros de baixo impacto que possam ser identificados e corrigidos pelo usuário, como:
+
+- Pequenas falhas de escrita;
+- Sugestões inadequadas em brainstorming;
+- Respostas incompletas;
+- Informações incorretas em tarefas simples, desde que sejam revisadas antes da utilização.
+
+### Erros Inaceitáveis
+
+São considerados inaceitáveis erros ou falhas que possam causar impactos significativos, como:
+
+- Vazamento de dados pessoais ou corporativos;
+- Exposição de chaves de API ou credenciais;
+- Perda ou corrupção de informações;
+- Acesso não autorizado;
+- Execução de ações perigosas sem autorização;
+- Utilização de informações incorretas em decisões de alto impacto.
+
+### Impactos de Respostas Incorretas
+
+O impacto de uma resposta incorreta depende da finalidade do uso:
+
+- **Tarefas simples:** podem causar retrabalho.
+- **Programação:** podem gerar bugs e vulnerabilidades.
+- **Ambiente acadêmico:** podem resultar em informações incorretas no trabalho.
+- **Ambiente corporativo:** podem levar a decisões ou procedimentos inadequados.
+- **Finanças:** podem causar prejuízos financeiros.
+- **Saúde e segurança:** podem causar danos significativos.
