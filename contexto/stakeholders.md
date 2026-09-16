@@ -7,7 +7,7 @@
 - **Evidência desejada:** Testes de segurança, estabilidade, documentação e histórico de correções.
 - **Responsabilidade:** Utilizar o sistema corretamente e verificar respostas importantes antes de utilizá-las.
 
-### 2. Desenvolvedor/Mantenedor
+### 2. Desenvolvedor
 - **Objetivo:** Desenvolver e manter o Cherry Studio funcionando de forma segura e confiável.
 - **Expectativa:** Garantir estabilidade, corrigir problemas e manter compatibilidade com os diferentes provedores de IA.
 - **Possíveis danos de falhas:** Vulnerabilidades de segurança, vazamento de credenciais, erros no sistema e indisponibilidade.
