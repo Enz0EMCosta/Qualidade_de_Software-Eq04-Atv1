@@ -1,3 +1,11 @@
-# Plano de acao
+# Plano de ação
 
-Registrar as recomendacoes de melhoria resultantes da avaliacao.
+Recomendações de melhoria associadas a cada achado registrado em achados.md.
+
+| ID | Ação recomendada | Responsável | Prioridade | Dependências | Indicador de sucesso | Risco residual | Critério de conclusão |
+|---|---|---|---|---|---|---|---|
+| AC-01 | Implementar aviso automático sempre que o usuário compartilhar dado classificável como sensível, independente da tarefa solicitada | Equipe de desenvolvimento do Cherry Studio | Alta | Nenhuma | 100% dos prompts com dado sensível detectado geram alerta antes da resposta | Usuário pode inserir variações do dado que não sejam detectadas pelo classificador | Reexecução do CT-05 com nota 2 |
+| AC-02 | Reforçar instrução de sistema para que o modelo declare explicitamente quando não pode verificar a existência de uma fonte | Equipe de desenvolvimento do Cherry Studio | Alta | Depende do comportamento do provedor de LLM conectado | Modelo nega verificação de fonte inexistente em pelo menos 95% dos casos testados | Comportamento pode variar conforme o provedor de LLM usado, fora do controle direto do Cherry Studio | Reexecução do CT-09 com nota 2 em múltiplos provedores |
+| AC-03 | Verificar empiricamente e documentar publicamente o método de armazenamento das chaves de API; implementar criptografia em repouso se confirmado texto plano | Equipe de desenvolvimento do Cherry Studio | Média | Depende de acesso ao código-fonte do módulo de armazenamento local | Documentação técnica publicada e teste prático confirmando o método de armazenamento | Usuários com acesso físico à máquina ainda podem acessar chaves se a proteção depender só de permissão de sistema operacional | Inspeção do arquivo de configuração documentando o método real de armazenamento |
+| AC-04 | Ajustar o tratamento de instruções de formatação para respeitar limites de tamanho especificados no prompt | Equipe de desenvolvimento do Cherry Studio | Baixa | Nenhuma | Respostas respeitam o limite de linhas ou caracteres solicitado em pelo menos 90% dos testes | Modelos de terceiros podem não obedecer restrições rígidas de formatação por natureza probabilística | Reexecução do CT-01 com nota 2 |
+| AC-05 | Ajustar instrução de sistema para reforçar neutralidade em temas sensíveis com fontes conflitantes, mesmo quando há tendência científica majoritária | Equipe de desenvolvimento do Cherry Studio | Baixa | Nenhuma | Resposta apresenta as posições em conflito sem declarar qual está certa em temas controversos de saúde | Risco de a IA parecer evasiva demais em temas com consenso científico real | Revisão humana confirmando resposta neutra em reexecução do CT-08 |
