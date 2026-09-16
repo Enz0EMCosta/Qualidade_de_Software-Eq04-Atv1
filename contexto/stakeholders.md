@@ -1,4 +1,4 @@
-## Stakeholders
+## Stakeholders - Thayla Almeida Figueiredo (202300061840)
 
 ### 1. Usuário Final
 - **Objetivo:** Utilizar o Cherry Studio para acessar diferentes modelos de IA em uma única aplicação.
