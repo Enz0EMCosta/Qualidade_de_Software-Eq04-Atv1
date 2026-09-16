@@ -64,3 +64,9 @@
 | IA generativa | Finalidade | Prompt utilizado | Saída (resumo) |
 |---|---|---|---|
 | **ChatGPT** | Gerar casos de teste | "“Me gere 5 prompts de teste adequados, para testar a variabilidade e não determinismo de uma IA generativa” | “Resultados apresentados na Tabela de Registro de Prompt e Saída” |
+
+
+# Declaração de Uso de IA Generativa (Rafael Souza Prata)
+| IA generativa | Finalidade | Prompt utilizado | Saída (resumo) |
+|---|---|---|---|
+| **ChatGPT** | Com base exclusivamente nos dados e informações fornecidos sobre o Cherry Studio, gere 10 requisitos de qualidade (requisitos não funcionais) relacionados ao sistema. Para cada requisito, descreva de forma clara, objetiva e verificável a característica de qualidade que deve ser atendida, informe a respectiva área do requisito, como segurança, confiabilidade, desempenho, usabilidade, disponibilidade, manutenibilidade, compatibilidade, portabilidade, escalabilidade ou privacidade, e estabeleça critérios de aceitação objetivos que permitam verificar se o requisito foi atendido. Os requisitos devem ser específicos para o Cherry Studio, evitando características genéricas aplicáveis a qualquer sistema, e devem ser testáveis e mensuráveis sempre que possível. Evite critérios vagos, como “o sistema deve ser rápido” ou “o sistema deve ser seguro”, utilizando métricas ou condições concretas para validar cada requisito. Distribua os 10 requisitos entre diferentes áreas de qualidade e, ao final, apresente uma breve justificativa sobre a relevância de cada requisito para o Cherry Studio.” | “Resultados apresentados na Tabela de Inserida no Arquivo do trabalho” |
