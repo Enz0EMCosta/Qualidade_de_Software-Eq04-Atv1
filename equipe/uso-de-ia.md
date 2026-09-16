@@ -59,3 +59,8 @@
 
 **Supervisão humana:** as ferramentas de IA generativa foram utilizadas apenas como apoio à pesquisa, organização e elaboração do conteúdo. As respostas não foram consideradas como fonte única de informação, sendo revisadas e adaptadas manualmente antes de sua utilização no trabalho.
 
+
+# Declaração de Uso de IA Generativa (Vinícius Morais Souza)
+| IA generativa | Finalidade | Prompt utilizado | Saída (resumo) |
+|---|---|---|---|
+| **ChatGPT** | Gerar casos de teste | "“Me gere 5 prompts de teste adequados, para testar a variabilidade e não determinismo de uma IA generativa” | “Resultados apresentados na Tabela de Registro de Prompt e Saída” |
