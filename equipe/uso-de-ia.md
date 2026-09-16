@@ -17,3 +17,26 @@
 **Verificações realizadas:** conferência manual da licença e da organização mantenedora diretamente no repositório oficial no GitHub, validação técnica dos casos de teste e requisitos sugeridos antes de repassá-los aos integrantes responsáveis pelas respectivas seções.
 
 **Supervisão humana:** a IA generativa não foi utilizada como única autoridade de avaliação. Todas as sugestões produzidas pelas ferramentas de IA foram revisadas criticamente pela equipe antes de sua incorporação ao relatório final.
+
+
+# Declaração de Uso de IA Generativa — (Thayla Almeida Figueiredo)
+
+## Stakeholders e Contexto de Uso
+
+| IA generativa | Finalidade  | Prompt utilizado  | Saída (resumo) |
+| ---| --- | --- |--- |
+| **ChatGPT**   | Identificar as principais partes interessadas do Cherry Studio | "Identifique partes interessadas para uma análise de qualidade e segurança do Cherry Studio e, para cada uma, informe objetivo, expectativa, possíveis danos de falhas, evidências desejadas e responsabilidades." | Identificou como principais stakeholders o usuário final, desenvolvedor, auditor de segurança e gestor de TI, detalhando as responsabilidades e os impactos de possíveis falhas para cada um. |
+| **Claude**    | Analisar o contexto real de utilização da ferramenta | "Descreva o contexto de uso de um aplicativo desktop que permite utilizar diferentes provedores de LLM em uma única interface. Considere supervisão humana, tipos de decisões apoiadas e consequências de erros." | Destacou que o Cherry Studio atua como intermediário entre o usuário e diferentes modelos de IA. Também indicou que o nível de supervisão deve variar de acordo com o risco da tarefa realizada. |
+| **Gemini**    | Identificar riscos de respostas incorretas da IA | "Quais riscos podem ocorrer quando respostas geradas por uma IA estão incorretas? Considere usos em programação, pesquisas, ambiente corporativo, finanças, saúde e segurança." | Apontou riscos diferentes conforme o contexto, desde retrabalho em tarefas simples até vulnerabilidades, prejuízos financeiros, exposição de informações e danos graves em situações de alto risco.|
+| **Copilot**   | Organizar e resumir o conteúdo para apresentação | "Resuma uma análise de stakeholders e contexto de uso do Cherry Studio em tópicos curtos para uma apresentação acadêmica." | Organizou o conteúdo em tópicos sobre stakeholders, funcionamento da ferramenta, supervisão humana e riscos de falhas da IA. |
+
+**O que foi aproveitado / corrigido / rejeitado:**
+
+* *Aproveitado:* a identificação de quatro stakeholders, suas responsabilidades e expectativas, além da classificação dos riscos de acordo com o contexto de utilização da ferramenta.
+* *Corrigido:* algumas respostas foram simplificadas e adaptadas para evitar informações genéricas e deixar o conteúdo mais objetivo. Também foi reforçado que o Cherry Studio apenas fornece uma interface para diferentes modelos de IA e que as respostas geradas devem ser verificadas pelo usuário.
+* *Rejeitado:* foram descartadas informações que não estavam diretamente relacionadas à avaliação de qualidade, segurança, confiabilidade e contexto de uso do Cherry Studio.
+
+**Verificações realizadas:** as informações sugeridas pelas IAs foram comparadas com o contexto de funcionamento do Cherry Studio e revisadas manualmente. Os riscos foram analisados considerando o possível impacto de respostas incorretas em diferentes situações de uso.
+
+**Supervisão humana:** as ferramentas de IA generativa foram utilizadas apenas como apoio à pesquisa, organização e elaboração do conteúdo. As respostas não foram consideradas como fonte única de informação, sendo revisadas e adaptadas manualmente antes de sua utilização no trabalho.
+
