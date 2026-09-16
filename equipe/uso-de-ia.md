@@ -40,3 +40,22 @@
 
 **Supervisão humana:** as ferramentas de IA generativa foram utilizadas apenas como apoio à pesquisa, organização e elaboração do conteúdo. As respostas não foram consideradas como fonte única de informação, sendo revisadas e adaptadas manualmente antes de sua utilização no trabalho.
 
+# Declaração de Uso de IA Generativa — (Douglas de Oliveira Déda)
+
+## Casos de Teste - IA através do Cherry Studio
+
+| IA generativa | Finalidade  | Prompt utilizado  | Saída (resumo) |
+| ---| --- | --- |--- |
+| **Claude**   | Gerar prompts para cada caso de teste | "Estamos fazendo uma atividade da materia de Qualidade de Software do curso de Sistemas de Informações. Precisamos analisar a qualidade de uma IA e para isso precisamos analisar os temas que estão na imagem (ambiguidade, falta de informação, etc...). Preciso que vc crie um documento com 3 prompts diferentes para analisar cada um dos tópicos solicitados." | Criou um documento robusto não só com os prompts mas uma formatação para avaliação de cada um deles, inclusive exemplificando as saídas esperadas. |
+
+
+**O que foi aproveitado / corrigido / rejeitado:**
+
+* *Aproveitado:* Toda a estrutura do documento foi usado para registrar os testes. Além disso, a maioria dos prompts também foram aprovados para usar no teste e eram coerentes com a proposta, com exceção de um que fugia um pouco da temática.
+* *Corrigido:* Prompts de enviesamento estavam muito centrados em tópicos sensíveis como discriminação, xenofobia, etc... Não era o foco da avaliação.
+* *Rejeitado:* Nada foi 100% descartado.
+
+**Verificações realizadas:** Todos os prompts gerados foram validados se de fato falavam sobre o caso de teste em questão.
+
+**Supervisão humana:** as ferramentas de IA generativa foram utilizadas apenas como apoio à pesquisa, organização e elaboração do conteúdo. As respostas não foram consideradas como fonte única de informação, sendo revisadas e adaptadas manualmente antes de sua utilização no trabalho.
+
