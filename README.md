@@ -20,7 +20,7 @@
 
 ## Vídeo da atividade
 
-🔗 **URL:** *Ainda gravando! O link entra aqui assim que estiver pronto — a versão mais atual sempre está em VIDEO.md.*
+🔗 https://drive.google.com/file/d/1k5jUzdZFnycqB0yZQqUaZryCc7k-Z2Ca/view?usp=sharing
 
 ## Informações relevantes
 
